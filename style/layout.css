@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    font-family: Arial;
+    text-decoration: underline;
+}
+
+
+
+table{
+
+    table-layout: fixed;
+    border-style: double;
+    border-color: rgb(152, 148, 144);
+    width: 100vh;
+    height: 30vw;
+    border-width: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(16, 234, 234, 0.974);
+    
+
+}
+
+td {
+    border: 1px solid grey;
+ }
+
+th {
+    border: 1px solid grey;
+ }
+
+ 
+ .centr{
+    text-align: center;
+    font-family: Arial;
+ }
+ h2{
+    
+    font-family: Arial;
+ }
